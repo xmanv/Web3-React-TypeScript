@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+dist/
+www/
+www-pc/
+www-wap/
+www-xandroid/
+www-xliveandroid/
+wwwbak/
+platforms/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+config.xml
+cordova-hcp.json
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
