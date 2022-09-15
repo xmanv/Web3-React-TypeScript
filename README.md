@@ -1,3 +1,3 @@
-# MetaMask 小狐狸
+# MetaMask 小狐狸GG
 
 
